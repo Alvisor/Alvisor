@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuel Rodriguez AKA @Alvisor a software engineer with 10 years of experience in web application development.
-- 👀 I’m interested in backend developing (AWS with typescript or python) and BPM automation.
-- 🌱 I’m currently working in AWS with Typescript and learning and moving to programming in GO.
+- 👀 I’m interested in backend developing (AWS services with Node-Typescript or python) 
+- 🌱 I’m currently working in AWS with Typescript and learning to programming in GO.
 - 💞️ I’m looking to collaborate on GO proyects.
 - 📫 How to reach me: alvisor.max@gmail.com, https://www.linkedin.com/in/manuel-alejandro-rodriguez-rojas-161b1929/
 
